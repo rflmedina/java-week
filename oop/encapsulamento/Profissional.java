@@ -1,7 +1,7 @@
 package oop.encapsulamento;
 
 public class Profissional {
-    public Double salario;
+    private Double salario;
     private Integer id;
 
     public Double salarioPublico;
